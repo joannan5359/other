@@ -1,9 +1,9 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Joanna Ni
+## Course: Sep10
+## Period: 2
+## Concept: HTML (basics)
 
 ### Section
 
